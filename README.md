@@ -1,5 +1,10 @@
 # Bike Sharing Demand Prediction
-> Outline a brief description of your project.
+In this project we have come across a situation where a U.S. based company called as BhoomBikes has suffered considerable downtrend in their revenues due to the ongoing Corona pandemic. Thereby company is finding it very difficult to bear this loss in the current market scenario. So, this company has decided to come up with a good business plan, where it can make some profit with its revenue increase as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.
+
+So company Bhoombikes has tried to consult a data analyst company to help them with business plan which helps them to make profit.
+
+**Business Goal**
+So we need to design a model, to understand how the demand is there for shared bikes is affected, with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. Further, the same could be utilised to predict market situation to understand the demand dynamics of a new market.
 
 
 ## Table of Contents
@@ -11,38 +16,32 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
+
+In such an attempt, BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19. They have planned this to prepare themselves to cater to the people's needs once the situation gets better all around and stand out from other service providers and make huge profits.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+- Bhoom Bike Company need to concentrate on temperature factor as when it would be good to improve count of bike rentals.
+- How to plan to make sales better year by year as market is growing each year.
+- Also giving additional ride offers during good weather time to improve bike rental count as it makes up decrease of sales due to rain snow and misty weather time.
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- Pandas  - v1.1.3
+- Numpy - v1.19.2
+- Matplotlib - v3.3.2
+- Seaborn - v0.11.0
+- Sklearn - v0.21.3
+- Statsmodel - v0.10.1
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This project was inspired by upgrad Linear Regression Assignment
+- References: https://scikit-learn.org/stable/modules/feature_selection.html
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@rashmiaab] - feel free to contact me!
 
 
 <!-- Optional -->
